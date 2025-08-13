@@ -10,8 +10,8 @@
 
 Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les idées en code et les défis en opportunités d'apprentissage.
 
-- 🔭 **Actuellement** : Je travaille sur [Projet Principal]
-- 🌱 **J'apprends** : [Technologies en cours d'apprentissage]
+- 🔭 **Actuellement** : Je travaille sur Fonika, une app pour apprendre le Fongbé.
+- 🌱 **J'apprends** : LARAVEL
 - 👯 **Collaboration** : Ouvert aux projets open source
 - 💬 **Parlons de** : JavaScript, Python, Web Development
 - 📫 **Contact** : awademeronaldoo@gmail.com
