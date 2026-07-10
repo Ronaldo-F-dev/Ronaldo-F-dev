@@ -105,7 +105,7 @@ Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les
 
 <div align="center">
 
-### 🎯 Objectif 2025 : **Finir mon parcours d'Epitech en tant que dev IA/DATA**
+### 🎯 Objectif 2026 : **Maîtriser la culture DevOps (Terraform, Kubernetes, etc ...)**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRonaldo-F-dev&label=Visiteurs&countColor=%23263759&style=flat)
 
