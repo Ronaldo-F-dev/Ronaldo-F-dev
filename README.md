@@ -110,6 +110,7 @@ Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRonaldo-F-dev&label=Visiteurs&countColor=%23263759&style=flat)
 
 **Merci de visiter mon profil ! N'hésitez pas à explorer mes repos et à me contacter**
+
 **Explicite is better than implicit**
 
 </div>
