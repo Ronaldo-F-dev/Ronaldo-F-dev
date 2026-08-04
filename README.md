@@ -10,7 +10,7 @@
 
 Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les idées en code et les défis en opportunités d'apprentissage.
 
-- 🔭 **Actuellement** : Je travaille sur phpnitro, un framework mobile mais en php avec un rendu natif.
+- 🔭 **Actuellement** : Je construis **[PhpNitro](https://github.com/phpnitro)**, un framework PHP qui compile vers de véritables apps Android natives — moteur de rendu Canvas, zéro WebView.
 - 🌱 **J'apprends** : Cloud Computing | DevOps
 - 👯 **Collaboration** : Ouvert aux projets open source
 - 💬 **Parlons de** : JavaScript, Python, Web Development, Flutter, NLP, Fonlang
@@ -29,6 +29,7 @@ Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -65,9 +66,47 @@ Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les
 
 </div>
 
+---
+
+## 🚀 PhpNitro — Mon organisation
+
+<div align="center">
+
+<a href="https://github.com/phpnitro">
+  <img src="https://avatars.githubusercontent.com/u/305936306?s=200&v=4" width="90" style="border-radius:50%" alt="PhpNitro logo"/>
+</a>
+
+### [github.com/phpnitro](https://github.com/phpnitro)
+
+**Un framework PHP qui compile vers de vraies apps Android natives**
+*Moteur de rendu Canvas • Zéro WebView • PHP comme runtime embarqué*
+
+[![Organisation](https://img.shields.io/badge/Organisation-phpnitro-777BB4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phpnitro)
+[![Repos](https://img.shields.io/badge/Voir_les_repos-12-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/phpnitro/repositories)
+
+</div>
+
+Contrairement à un framework hybride classique (Cordova, WebView-based), PhpNitro **ne charge pas de page web** : le layout et le rendu se font directement sur un `Canvas` natif Android, un peu comme la relation entre Flutter et le Flutter SDK — sauf que le langage applicatif ici, c'est le PHP.
+
+<div align="center">
+
+| Package | Rôle |
+|---|---|
+| [`phpnitro/phpnitro`](https://github.com/phpnitro/phpnitro) | Le framework principal — layout PHP + rendu Canvas natif |
+| [`phpnitro/ui`](https://github.com/phpnitro/ui) | Widgets & primitives de rendu (layout, dessin, animations, gestes) |
+| [`phpnitro/android-engine`](https://github.com/phpnitro/android-engine) | Le moteur natif Kotlin compilé, publié via JitPack |
+| [`phpnitro/database`](https://github.com/phpnitro/database) | Couche de connexion basée sur Doctrine DBAL |
+| [`phpnitro/firebase`](https://github.com/phpnitro/firebase) | Client Firebase Auth REST, sans dépendance au SDK officiel |
+| [`phpnitro/socialauth`](https://github.com/phpnitro/socialauth) | OAuth2 (GitHub / Facebook / Microsoft / Apple) |
+
+</div>
+
 ## 🏆 Projets Phares
 
 <div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phpnitro&repo=phpnitro&theme=tokyonight&hide_border=true)](https://github.com/phpnitro/phpnitro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phpnitro&repo=android-engine&theme=tokyonight&hide_border=true)](https://github.com/phpnitro/android-engine)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronaldo-F-dev&repo=fonika&theme=tokyonight&hide_border=true)](https://github.com/Ronaldo-F-dev/fonika)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronaldo-F-dev&repo=projet_juridique&theme=tokyonight&hide_border=true)](https://github.com/Ronaldo-F-dev/projet_juridique)
