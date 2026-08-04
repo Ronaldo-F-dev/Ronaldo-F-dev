@@ -105,11 +105,7 @@ Contrairement à un framework hybride classique (Cordova, WebView-based), PhpNit
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phpnitro&repo=phpnitro&theme=tokyonight&hide_border=true)](https://github.com/phpnitro/phpnitro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phpnitro&repo=android-engine&theme=tokyonight&hide_border=true)](https://github.com/phpnitro/android-engine)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronaldo-F-dev&repo=fonika&theme=tokyonight&hide_border=true)](https://github.com/Ronaldo-F-dev/fonika)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronaldo-F-dev&repo=projet_juridique&theme=tokyonight&hide_border=true)](https://github.com/Ronaldo-F-dev/projet_juridique)
+![GitHub Metrics](https://raw.githubusercontent.com/Ronaldo-F-dev/github-metrics/main/github-metrics.svg)
 
 </div>
 
