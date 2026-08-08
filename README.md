@@ -68,7 +68,7 @@ Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les
 
 ---
 
-## 🚀 PhpNitro — Mon organisation
+## PhpNitro — Mon organisation
 
 <div align="center">
 
