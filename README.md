@@ -1,4 +1,4 @@
-# 👋 Salut, je suis AWADEME FINANFA RONALDO !
+# 👋 Salut, je suis AWADEME FINANFA RONALDO
 
 <div align="center">
   
