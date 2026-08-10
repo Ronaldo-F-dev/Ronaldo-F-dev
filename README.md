@@ -1,4 +1,4 @@
-# 👋 Salut, je suis AWADEME FINANFA RONALDO
+# Salut, je suis AWADEME FINANFA RONALDO
 
 <div align="center">
   
@@ -17,7 +17,7 @@ Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les
 - 📫 **Contact** : awademeronaldoo@gmail.com
 - ⚡ **Fun fact** : J'adore les jeux vidéos et la bouffe !
 
-## 🛠️ Technologies & Outils
+## Technologies & Outils
 
 <div align="center">
 
