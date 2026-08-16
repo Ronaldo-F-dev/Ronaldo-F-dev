@@ -140,7 +140,7 @@ Contrairement à un framework hybride classique (Cordova, WebView-based), PhpNit
 
 <div align="center">
 
-### 🎯 Objectif 2026 : **Maîtriser la culture DevOps (Terraform, Kubernetes, etc ...)**
+### Objectif 2026 : **Maîtriser la culture DevOps (Terraform, Kubernetes, etc ...)**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRonaldo-F-dev&label=Visiteurs&countColor=%23263759&style=flat)
 
