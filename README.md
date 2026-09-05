@@ -54,7 +54,7 @@ Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les
 
 </div>
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
   
