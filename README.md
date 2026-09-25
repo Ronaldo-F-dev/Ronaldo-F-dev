@@ -132,7 +132,7 @@ Contrairement à un framework hybride classique (Cordova, WebView-based), PhpNit
 
 <div align="center">
 
-*"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."* – Cory House
+*"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."* Cory House
 
 </div>
 
