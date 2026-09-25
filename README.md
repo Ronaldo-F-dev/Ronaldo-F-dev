@@ -117,7 +117,7 @@ Contrairement à un framework hybride classique (Cordova, WebView-based), PhpNit
 
 </div>
 
-## 🌐 Retrouvez-moi sur
+## 🌐 Retrouvez-moi sur : 
 
 <div align="center">
 
