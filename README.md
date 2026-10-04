@@ -10,7 +10,7 @@
 
 Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les idées en code et les défis en opportunités d'apprentissage .
 
-- 🔭 **Actuellement** : Je construis **[PhpNitro](https://github.com/phpnitro)**, un framework PHP qui compile vers de véritables apps Android natives — moteur de rendu Canvas, zéro WebView.
+- 🔭 **Actuellement** : Je construis **[PhpNitro](https://github.com/phpnitro)**, un framework PHP qui compile vers de véritables apps Android natives — moteur de rendu Canvas, zéro WebView && aussi un TTS pour la langue Fongbe .
 - 🌱 **J'apprends** : Cloud Computing | DevOps
 - 👯 **Collaboration** : Ouvert aux projets open source .
 - 💬 **Parlons de** : Java, Python, Web Development, Flutter, NLP, Fonlang, Fonika Learn, finanfa code, PhpNitro & 229 Langues
