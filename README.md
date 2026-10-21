@@ -13,7 +13,7 @@ Développeur passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme les
 - 🔭 **Actuellement** : Je construis **[PhpNitro](https://github.com/phpnitro)**, un framework PHP qui compile vers de véritables apps Android natives — moteur de rendu Canvas, zéro WebView && aussi un TTS pour la langue Fongbe .
 - 🌱 **J'apprends** : Cloud Computing | DevOps
 - 👯 **Collaboration** : Ouvert aux projets open source .
-- 💬 **Parlons de** : Java, Python, Web Development, Flutter, NLP, Fonlang, Fonika Learn, finanfa code, PhpNitro & 229 Langues
+- 💬 **Parlons de** : Java, Python, Web Development, Flutter, NLP, Fonlang, Fonika Learn, finanfa code, Vb.net, PhpNitro & 229 Langues
 - 📫 **Contact** : awademeronaldoo@gmail.com
 - ⚡ **Fun fact** : J'adore les jeux vidéos, le football et la bouffe !
 
