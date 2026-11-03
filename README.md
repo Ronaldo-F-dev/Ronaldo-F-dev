@@ -15,7 +15,7 @@ Développeur, passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme le
 - 👯 **Collaboration** : Ouvert aux projets open source .
 - 💬 **Parlons de** : Java, Python, Web Development, Flutter, NLP, Fonlang, Fonika Learn, finanfa code, Vb.net, PhpNitro & 229 Langues
 - 📫 **Contact** : awademeronaldoo@gmail.com
-- ⚡ **Fun fact** : J'adore les jeux vidéos, le football et la bouffe !
+- ⚡ **Fun fact** : J'adore les jeux vidéos, le football et la bouffe.
 
 ## Technologies & Outils 
 
