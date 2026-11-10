@@ -14,7 +14,7 @@ Développeur, passionné basé à **Cotonou, Bénin** 🇧🇯, je transforme le
 - 🌱 **J'apprends** : Cloud Computing | DevOps
 - 👯 **Collaboration** : Ouvert aux projets open source .
 - 💬 **Parlons de** : Java, Python, Web Development, Flutter, NLP, Fonlang, Fonika Learn, finanfa code, Vb.net, PhpNitro & 229 Langues
-- 📫 **Contact** : awademeronaldoo@gmail.com
+- 📫 **Contact** : awademeronaldoo@gmail.com | ronaldo.awademe@epitech.eu
 - ⚡ **Fun fact** : J'adore les jeux vidéos, le football et la bouffe.
 
 ## Technologies & Outils 
